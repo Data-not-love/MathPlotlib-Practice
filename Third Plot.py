@@ -20,4 +20,4 @@ ax.set(xlim=(0, 10), xticks=np.arange(1, 11),
        ylim=(0, 10), yticks=np.arange(1, 11))
 
 plt.show()
-print("Plot has been shown!")
+print("Plot has been shown!.Please watch")
